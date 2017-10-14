@@ -8,3 +8,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: bookdown
+URL: https://github.com/mrecos/myProject
+BugReports: https://github.com/mrecos/myProject/issues
